@@ -5,7 +5,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
-Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and 
+info-instagram is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and 
 Create an account through a fast bot
 
 ## Legal disclaimer:
