@@ -34,7 +34,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 1. ```git clone https://github.com/0xfff0800/info-instagram.git```
 2. ```cd info-instagram```
 3. ```cd info-flo```
-4. ```python3 setup.py installr ```
+4. ```python3 setup.py install ```
 5. ```python3 FaLaH.py ```
 
 
