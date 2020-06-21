@@ -7,6 +7,7 @@
 
 info-instagram is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and 
 Create an account through a fast bot
+Rate Android has been adding some improvements
 
 ## Legal disclaimer:
 
